@@ -1,3 +1,2 @@
-*.exe
-.vscode/*.json
-/build/*.*
+test.exe
+.vscode/tasks.json
